@@ -1,4 +1,4 @@
-package com.example.rest.controller;
+package com.example.rest.service;
 
 import com.example.rest.entity.Book;
 import com.example.rest.exception.BookNotFoundException;
